@@ -1,0 +1,2 @@
+:: See docs for info on args: https://docs.unrealengine.com/latest/INT/Programming/UnrealBuildSystem/ProjectFileGenerator/index.html
+"%ProgramFiles%\Epic Games\UE_5.6\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.exe" -ProjectFiles -UsePrecompiled -Game "C:\Users\adamo\Documents\GitHub\Papyrus\Papyrus.uproject"
